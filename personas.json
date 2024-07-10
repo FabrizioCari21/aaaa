@@ -1,0 +1,42 @@
+{
+    "Personas" : "Mi Familia",
+    "Lista":
+    [
+
+    {
+        "Nombre" : "Fabrizio",
+        "NumeroF" : "7",
+        "Trabajo" : true,
+        "Nacimiento" : "21-11-2005"
+    },
+
+    {
+        "Nombre" : "Mauricio",
+        "NumeroF" : "2",
+        "Trabajo" : true,
+        "Nacimiento" : "01-01-1960"
+    },
+
+    {
+        "Nombre" : "Natasha",
+        "NumeroF" : "4",
+        "Trabajo" : true,
+        "Nacimiento" : "12-08-2004"
+    },
+
+    {
+        "Nombre" : "Lucas",
+        "NumeroF" : "5",
+        "Trabajo" : true,
+        "Nacimiento" : "18-05-1995"
+    },
+
+    {
+        "Nombre" : "Roberto",
+        "NumeroF" : "8",
+        "Trabajo" : true,
+        "Nacimiento" : "18-11-1971"
+    }
+
+    ]
+}
